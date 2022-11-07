@@ -352,4 +352,4 @@ if (msg.content === 'pk ?') {
    }, 10000);
   });
 
-client.login("NjY5MjcwNzYyMTAzODk4MTIz.Gor4Wt.Pg2RTctc7cQa7NeFUZgA1n1iNkLD_wJD1bjYRE");
+client.login("TOKEN");
