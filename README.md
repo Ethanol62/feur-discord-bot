@@ -1,4 +1,4 @@
-© 2022, Feur. - Tous Droits Réservés
+© 2022-2023, Feur. - Tous Droits Réservés
 
 Installation:
 1. Télécharger "Node.js" --> https://nodejs.org
